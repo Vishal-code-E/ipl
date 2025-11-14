@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "p001",
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 237,
+      "runs": 7263,
+      "average": 37.25,
+      "strikeRate": 130.41,
+      "fifties": 50,
+      "hundreds": 7
+    },
+    "iplHistory": ["RCB"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p002",
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 243,
+      "runs": 6211,
+      "average": 30.36,
+      "strikeRate": 130.82,
+      "fifties": 42,
+      "hundreds": 2
+    },
+    "iplHistory": ["DC", "MI"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p003",
+    "name": "MS Dhoni",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 264,
+      "runs": 5243,
+      "average": 38.09,
+      "strikeRate": 135.92,
+      "fifties": 24
+    },
+    "iplHistory": ["CSK", "RPS"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p004",
+    "name": "AB de Villiers",
+    "role": "Batsman",
+    "country": "South Africa",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 184,
+      "runs": 5162,
+      "average": 39.71,
+      "strikeRate": 151.69,
+      "fifties": 40,
+      "hundreds": 3
+    },
+    "iplHistory": ["DC", "RCB"],
+    "yearRange": "2011-2021"
+  },
+  {
+    "id": "p005",
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 133,
+      "wickets": 165,
+      "average": 23.55,
+      "economy": 7.30,
+      "bestBowling": "5/10"
+    },
+    "iplHistory": ["MI"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p006",
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "country": "Afghanistan",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 110,
+      "wickets": 157,
+      "average": 20.48,
+      "economy": 6.33,
+      "bestBowling": "3/7"
+    },
+    "iplHistory": ["SRH", "GT"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p007",
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 140,
+      "runs": 2652,
+      "wickets": 90,
+      "average": 29.13,
+      "strikeRate": 179.41,
+      "economy": 9.42
+    },
+    "iplHistory": ["DC", "KKR"],
+    "yearRange": "2012-2024"
+  },
+  {
+    "id": "p008",
+    "name": "David Warner",
+    "role": "Batsman",
+    "country": "Australia",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 184,
+      "runs": 6565,
+      "average": 40.52,
+      "strikeRate": 139.96,
+      "fifties": 62,
+      "hundreds": 4
+    },
+    "iplHistory": ["DC", "SRH"],
+    "yearRange": "2009-2024"
+  },
+  {
+    "id": "p009",
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 162,
+      "runs": 1165,
+      "wickets": 180,
+      "strikeRate": 161.94,
+      "economy": 6.79,
+      "bestBowling": "5/19"
+    },
+    "iplHistory": ["KKR"],
+    "yearRange": "2012-2024"
+  },
+  {
+    "id": "p010",
+    "name": "KL Rahul",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 132,
+      "runs": 4683,
+      "average": 45.47,
+      "strikeRate": 134.62,
+      "fifties": 37,
+      "hundreds": 4
+    },
+    "iplHistory": ["RCB", "PBKS", "LSG"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p011",
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 145,
+      "runs": 2636,
+      "wickets": 70,
+      "average": 28.04,
+      "strikeRate": 143.65,
+      "economy": 8.99
+    },
+    "iplHistory": ["MI", "GT"],
+    "yearRange": "2015-2024"
+  },
+  {
+    "id": "p012",
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 240,
+      "runs": 2936,
+      "wickets": 157,
+      "average": 26.08,
+      "strikeRate": 127.14,
+      "economy": 7.69
+    },
+    "iplHistory": ["RR", "KTK", "CSK"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p013",
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 153,
+      "wickets": 205,
+      "average": 22.23,
+      "economy": 7.82,
+      "bestBowling": "5/40"
+    },
+    "iplHistory": ["MI", "RCB", "RR"],
+    "yearRange": "2011-2024"
+  },
+  {
+    "id": "p014",
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 222,
+      "runs": 6769,
+      "average": 35.31,
+      "strikeRate": 127.28,
+      "fifties": 51,
+      "hundreds": 2
+    },
+    "iplHistory": ["DC", "SRH", "PBKS"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p015",
+    "name": "Suresh Raina",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 205,
+      "runs": 5528,
+      "average": 32.51,
+      "strikeRate": 136.76,
+      "fifties": 39,
+      "hundreds": 1
+    },
+    "iplHistory": ["CSK", "GL"],
+    "yearRange": "2008-2021"
+  },
+  {
+    "id": "p016",
+    "name": "Pat Cummins",
+    "role": "Bowler",
+    "country": "Australia",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 52,
+      "wickets": 62,
+      "average": 27.82,
+      "economy": 8.32,
+      "bestBowling": "4/34"
+    },
+    "iplHistory": ["KKR", "DC", "SRH"],
+    "yearRange": "2014-2024"
+  },
+  {
+    "id": "p017",
+    "name": "Jos Buttler",
+    "role": "Wicket-Keeper",
+    "country": "England",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 92,
+      "runs": 3304,
+      "average": 40.29,
+      "strikeRate": 148.83,
+      "fifties": 22,
+      "hundreds": 6
+    },
+    "iplHistory": ["MI", "RR"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p018",
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "country": "South Africa",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 72,
+      "wickets": 98,
+      "average": 20.16,
+      "economy": 8.21,
+      "bestBowling": "4/21"
+    },
+    "iplHistory": ["DC", "PBKS"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p019",
+    "name": "Rishabh Pant",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 110,
+      "runs": 3284,
+      "average": 34.56,
+      "strikeRate": 147.97,
+      "fifties": 16,
+      "hundreds": 1
+    },
+    "iplHistory": ["DC"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p020",
+    "name": "Glenn Maxwell",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 129,
+      "runs": 2963,
+      "wickets": 32,
+      "average": 26.49,
+      "strikeRate": 154.67,
+      "economy": 7.70
+    },
+    "iplHistory": ["DC", "MI", "PBKS", "RCB"],
+    "yearRange": "2012-2024"
+  },
+  {
+    "id": "p021",
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 79,
+      "wickets": 106,
+      "average": 24.62,
+      "economy": 8.16,
+      "bestBowling": "4/18"
+    },
+    "iplHistory": ["SRH", "DC", "MI", "RR"],
+    "yearRange": "2015-2024"
+  },
+  {
+    "id": "p022",
+    "name": "Mohammad Shami",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 108,
+      "wickets": 127,
+      "average": 26.63,
+      "economy": 8.56,
+      "bestBowling": "5/25"
+    },
+    "iplHistory": ["KKR", "DC", "PBKS", "GT"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p023",
+    "name": "Quinton de Kock",
+    "role": "Wicket-Keeper",
+    "country": "South Africa",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 90,
+      "runs": 2832,
+      "average": 32.87,
+      "strikeRate": 131.68,
+      "fifties": 21,
+      "hundreds": 2
+    },
+    "iplHistory": ["SRH", "RCB", "MI", "LSG"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p024",
+    "name": "Ben Stokes",
+    "role": "All-Rounder",
+    "country": "England",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 48,
+      "runs": 986,
+      "wickets": 31,
+      "average": 26.97,
+      "strikeRate": 134.42,
+      "economy": 9.14
+    },
+    "iplHistory": ["RPS", "RR", "CSK"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p025",
+    "name": "Chris Gayle",
+    "role": "Batsman",
+    "country": "West Indies",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 142,
+      "runs": 4965,
+      "average": 40.04,
+      "strikeRate": 148.96,
+      "fifties": 31,
+      "hundreds": 6
+    },
+    "iplHistory": ["KKR", "RCB", "PBKS"],
+    "yearRange": "2009-2021"
+  },
+  {
+    "id": "p026",
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "country": "South Africa",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 120,
+      "runs": 3527,
+      "average": 33.01,
+      "strikeRate": 130.28,
+      "fifties": 25,
+      "hundreds": 2
+    },
+    "iplHistory": ["CSK", "RCB"],
+    "yearRange": "2012-2024"
+  },
+  {
+    "id": "p027",
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 79,
+      "runs": 1892,
+      "average": 24.25,
+      "strikeRate": 147.22,
+      "fifties": 12
+    },
+    "iplHistory": ["DC"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p028",
+    "name": "Axar Patel",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 136,
+      "runs": 1187,
+      "wickets": 125,
+      "strikeRate": 121.51,
+      "economy": 7.44,
+      "bestBowling": "5/17"
+    },
+    "iplHistory": ["PBKS", "DC"],
+    "yearRange": "2014-2024"
+  },
+  {
+    "id": "p029",
+    "name": "Mitchell Starc",
+    "role": "Bowler",
+    "country": "Australia",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 53,
+      "wickets": 74,
+      "average": 23.61,
+      "economy": 7.96,
+      "bestBowling": "4/15"
+    },
+    "iplHistory": ["RCB", "KKR"],
+    "yearRange": "2014-2024"
+  },
+  {
+    "id": "p030",
+    "name": "Sam Curran",
+    "role": "All-Rounder",
+    "country": "England",
+    "basePrice": 2.0,
+    "stats": {
+      "matches": 54,
+      "runs": 674,
+      "wickets": 61,
+      "strikeRate": 142.55,
+      "economy": 9.15,
+      "bestBowling": "4/11"
+    },
+    "iplHistory": ["PBKS", "CSK"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p031",
+    "name": "Ishan Kishan",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 105,
+      "runs": 2644,
+      "average": 27.30,
+      "strikeRate": 136.26,
+      "fifties": 14,
+      "hundreds": 1
+    },
+    "iplHistory": ["GJ", "MI"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p032",
+    "name": "Shubman Gill",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 97,
+      "runs": 3204,
+      "average": 34.44,
+      "strikeRate": 126.68,
+      "fifties": 21,
+      "hundreds": 3
+    },
+    "iplHistory": ["KKR", "GT"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p033",
+    "name": "Sanju Samson",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 165,
+      "runs": 4270,
+      "average": 29.45,
+      "strikeRate": 133.99,
+      "fifties": 23,
+      "hundreds": 3
+    },
+    "iplHistory": ["KKR", "DC", "RR"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p034",
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 159,
+      "wickets": 181,
+      "average": 26.20,
+      "economy": 7.25,
+      "bestBowling": "5/19"
+    },
+    "iplHistory": ["PWI", "SRH"],
+    "yearRange": "2009-2024"
+  },
+  {
+    "id": "p035",
+    "name": "Krunal Pandya",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 122,
+      "runs": 1569,
+      "wickets": 58,
+      "strikeRate": 143.70,
+      "economy": 7.42,
+      "bestBowling": "4/36"
+    },
+    "iplHistory": ["MI", "LSG"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p036",
+    "name": "Washington Sundar",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 78,
+      "runs": 673,
+      "wickets": 56,
+      "strikeRate": 130.17,
+      "economy": 7.05,
+      "bestBowling": "3/15"
+    },
+    "iplHistory": ["RPS", "RCB", "DC", "SRH"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p037",
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 115,
+      "runs": 3473,
+      "average": 31.55,
+      "strikeRate": 125.94,
+      "fifties": 26,
+      "hundreds": 1
+    },
+    "iplHistory": ["DC", "KKR"],
+    "yearRange": "2015-2024"
+  },
+  {
+    "id": "p038",
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 88,
+      "wickets": 94,
+      "average": 25.36,
+      "economy": 8.11,
+      "bestBowling": "5/24"
+    },
+    "iplHistory": ["KKR", "DC"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p039",
+    "name": "Moeen Ali",
+    "role": "All-Rounder",
+    "country": "England",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 39,
+      "runs": 679,
+      "wickets": 25,
+      "strikeRate": 157.44,
+      "economy": 7.62,
+      "bestBowling": "3/7"
+    },
+    "iplHistory": ["RCB", "CSK"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p040",
+    "name": "Nicholas Pooran",
+    "role": "Wicket-Keeper",
+    "country": "West Indies",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 85,
+      "runs": 2111,
+      "average": 28.52,
+      "strikeRate": 143.62,
+      "fifties": 13
+    },
+    "iplHistory": ["PBKS", "SRH", "LSG"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p041",
+    "name": "R Ashwin",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 200,
+      "runs": 678,
+      "wickets": 180,
+      "strikeRate": 112.27,
+      "economy": 7.02,
+      "bestBowling": "4/8"
+    },
+    "iplHistory": ["CSK", "RPS", "PBKS", "DC", "RR"],
+    "yearRange": "2009-2024"
+  },
+  {
+    "id": "p042",
+    "name": "Dinesh Karthik",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 257,
+      "runs": 4842,
+      "average": 26.32,
+      "strikeRate": 134.69,
+      "fifties": 22
+    },
+    "iplHistory": ["DC", "PBKS", "MI", "RCB", "KKR", "GL"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p043",
+    "name": "Mayank Agarwal",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 119,
+      "runs": 3363,
+      "average": 29.15,
+      "strikeRate": 133.68,
+      "fifties": 21,
+      "hundreds": 2
+    },
+    "iplHistory": ["RCB", "DC", "PBKS", "SRH"],
+    "yearRange": "2011-2024"
+  },
+  {
+    "id": "p044",
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 173,
+      "runs": 4336,
+      "average": 29.49,
+      "strikeRate": 121.02,
+      "fifties": 29,
+      "hundreds": 2
+    },
+    "iplHistory": ["MI", "RR", "PWI", "RPS", "DC", "CSK"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p045",
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 78,
+      "wickets": 74,
+      "average": 28.12,
+      "economy": 8.14,
+      "bestBowling": "6/7"
+    },
+    "iplHistory": ["RPS", "CSK", "MI"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p046",
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 93,
+      "wickets": 93,
+      "average": 31.35,
+      "economy": 8.71,
+      "bestBowling": "4/21"
+    },
+    "iplHistory": ["SRH", "RCB"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p047",
+    "name": "Umesh Yadav",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 158,
+      "wickets": 170,
+      "average": 30.16,
+      "economy": 8.80,
+      "bestBowling": "5/23"
+    },
+    "iplHistory": ["DC", "KKR", "RCB", "CSK", "GT"],
+    "yearRange": "2010-2024"
+  },
+  {
+    "id": "p048",
+    "name": "Shardul Thakur",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 88,
+      "runs": 607,
+      "wickets": 94,
+      "strikeRate": 146.25,
+      "economy": 9.30,
+      "bestBowling": "4/37"
+    },
+    "iplHistory": ["PBKS", "RPS", "CSK", "DC"],
+    "yearRange": "2015-2024"
+  },
+  {
+    "id": "p049",
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "country": "New Zealand",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 102,
+      "runs": 2723,
+      "average": 32.90,
+      "strikeRate": 122.67,
+      "fifties": 21
+    },
+    "iplHistory": ["SRH", "GJ"],
+    "yearRange": "2015-2024"
+  },
+  {
+    "id": "p050",
+    "name": "Marcus Stoinis",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 82,
+      "runs": 1512,
+      "wickets": 41,
+      "strikeRate": 139.77,
+      "economy": 8.90,
+      "bestBowling": "3/26"
+    },
+    "iplHistory": ["PBKS", "DC", "LSG"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p051",
+    "name": "Tim David",
+    "role": "Batsman",
+    "country": "Australia",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 38,
+      "runs": 791,
+      "average": 35.95,
+      "strikeRate": 163.93,
+      "fifties": 3
+    },
+    "iplHistory": ["RCB", "MI"],
+    "yearRange": "2021-2024"
+  },
+  {
+    "id": "p052",
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 65,
+      "wickets": 76,
+      "average": 26.61,
+      "economy": 8.54,
+      "bestBowling": "5/32"
+    },
+    "iplHistory": ["PBKS"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p053",
+    "name": "Rahul Tewatia",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 82,
+      "runs": 862,
+      "wickets": 51,
+      "strikeRate": 137.96,
+      "economy": 8.03,
+      "bestBowling": "3/15"
+    },
+    "iplHistory": ["RR", "DC", "GT"],
+    "yearRange": "2014-2024"
+  },
+  {
+    "id": "p054",
+    "name": "Devon Conway",
+    "role": "Wicket-Keeper",
+    "country": "New Zealand",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 31,
+      "runs": 986,
+      "average": 32.86,
+      "strikeRate": 131.91,
+      "fifties": 7,
+      "hundreds": 1
+    },
+    "iplHistory": ["CSK"],
+    "yearRange": "2022-2024"
+  },
+  {
+    "id": "p055",
+    "name": "Tilak Varma",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 39,
+      "runs": 1122,
+      "average": 31.16,
+      "strikeRate": 138.77,
+      "fifties": 7,
+      "hundreds": 1
+    },
+    "iplHistory": ["MI"],
+    "yearRange": "2022-2024"
+  },
+  {
+    "id": "p056",
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 60,
+      "runs": 2380,
+      "average": 42.50,
+      "strikeRate": 131.21,
+      "fifties": 14,
+      "hundreds": 3
+    },
+    "iplHistory": ["CSK"],
+    "yearRange": "2020-2024"
+  },
+  {
+    "id": "p057",
+    "name": "Venkatesh Iyer",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 50,
+      "runs": 1326,
+      "wickets": 10,
+      "strikeRate": 129.29,
+      "economy": 8.59,
+      "fifties": 9
+    },
+    "iplHistory": ["KKR"],
+    "yearRange": "2021-2024"
+  },
+  {
+    "id": "p058",
+    "name": "Wanindu Hasaranga",
+    "role": "Bowler",
+    "country": "Sri Lanka",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 33,
+      "wickets": 43,
+      "average": 21.83,
+      "economy": 7.72,
+      "bestBowling": "5/18"
+    },
+    "iplHistory": ["RCB", "SRH"],
+    "yearRange": "2021-2024"
+  },
+  {
+    "id": "p059",
+    "name": "Anrich Nortje",
+    "role": "Bowler",
+    "country": "South Africa",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 40,
+      "wickets": 49,
+      "average": 24.97,
+      "economy": 8.21,
+      "bestBowling": "3/33"
+    },
+    "iplHistory": ["DC"],
+    "yearRange": "2020-2024"
+  },
+  {
+    "id": "p060",
+    "name": "Avesh Khan",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 67,
+      "wickets": 76,
+      "average": 29.52,
+      "economy": 9.05,
+      "bestBowling": "4/24"
+    },
+    "iplHistory": ["RCB", "DC", "LSG"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p061",
+    "name": "Nitish Rana",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 101,
+      "runs": 2755,
+      "average": 29.08,
+      "strikeRate": 138.93,
+      "fifties": 18,
+      "hundreds": 1
+    },
+    "iplHistory": ["MI", "KKR"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p062",
+    "name": "Rahul Tripathi",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 95,
+      "runs": 2317,
+      "average": 27.85,
+      "strikeRate": 145.63,
+      "fifties": 15,
+      "hundreds": 1
+    },
+    "iplHistory": ["RPS", "KKR", "SRH", "CSK"],
+    "yearRange": "2017-2024"
+  },
+  {
+    "id": "p063",
+    "name": "Aiden Markram",
+    "role": "Batsman",
+    "country": "South Africa",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 40,
+      "runs": 893,
+      "average": 25.51,
+      "strikeRate": 139.40,
+      "fifties": 4,
+      "hundreds": 1
+    },
+    "iplHistory": ["PBKS", "SRH"],
+    "yearRange": "2020-2024"
+  },
+  {
+    "id": "p064",
+    "name": "Lockie Ferguson",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 35,
+      "wickets": 41,
+      "average": 27.78,
+      "economy": 8.91,
+      "bestBowling": "3/15"
+    },
+    "iplHistory": ["KKR", "GJ"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p065",
+    "name": "Jason Holder",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 49,
+      "runs": 548,
+      "wickets": 44,
+      "strikeRate": 127.90,
+      "economy": 8.32,
+      "bestBowling": "3/27"
+    },
+    "iplHistory": ["SRH", "LSG", "RR"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p066",
+    "name": "Liam Livingstone",
+    "role": "All-Rounder",
+    "country": "England",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 36,
+      "runs": 654,
+      "wickets": 13,
+      "strikeRate": 152.33,
+      "economy": 8.12,
+      "bestBowling": "2/13"
+    },
+    "iplHistory": ["RR", "PBKS"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p067",
+    "name": "Harshal Patel",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 88,
+      "wickets": 95,
+      "average": 28.31,
+      "economy": 8.91,
+      "bestBowling": "5/27"
+    },
+    "iplHistory": ["RCB", "DC", "PBKS"],
+    "yearRange": "2012-2024"
+  },
+  {
+    "id": "p068",
+    "name": "Prasidh Krishna",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 51,
+      "wickets": 52,
+      "average": 32.59,
+      "economy": 9.01,
+      "bestBowling": "4/30"
+    },
+    "iplHistory": ["KKR", "RR"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p069",
+    "name": "Navdeep Saini",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 45,
+      "wickets": 40,
+      "average": 35.02,
+      "economy": 9.14,
+      "bestBowling": "3/8"
+    },
+    "iplHistory": ["DC", "RCB"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p070",
+    "name": "Chetan Sakariya",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 26,
+      "wickets": 28,
+      "average": 30.42,
+      "economy": 8.83,
+      "bestBowling": "3/31"
+    },
+    "iplHistory": ["RR", "DC"],
+    "yearRange": "2021-2024"
+  },
+  {
+    "id": "p071",
+    "name": "Khaleel Ahmed",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 45,
+      "wickets": 44,
+      "average": 32.43,
+      "economy": 9.13,
+      "bestBowling": "3/21"
+    },
+    "iplHistory": ["SRH", "DC"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p072",
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "country": "Bangladesh",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 67,
+      "wickets": 77,
+      "average": 26.84,
+      "economy": 8.28,
+      "bestBowling": "5/22"
+    },
+    "iplHistory": ["SRH", "MI", "DC", "RR", "CSK"],
+    "yearRange": "2016-2024"
+  },
+  {
+    "id": "p073",
+    "name": "Shimron Hetmyer",
+    "role": "Batsman",
+    "country": "West Indies",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 67,
+      "runs": 1527,
+      "average": 28.27,
+      "strikeRate": 158.33,
+      "fifties": 8
+    },
+    "iplHistory": ["RCB", "DC", "RR"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p074",
+    "name": "Shivam Dube",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 85,
+      "runs": 1540,
+      "wickets": 18,
+      "strikeRate": 133.56,
+      "economy": 9.62,
+      "fifties": 8
+    },
+    "iplHistory": ["RCB", "RR", "CSK"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p075",
+    "name": "Ravi Bishnoi",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 62,
+      "wickets": 66,
+      "average": 25.37,
+      "economy": 7.37,
+      "bestBowling": "3/16"
+    },
+    "iplHistory": ["PBKS", "LSG"],
+    "yearRange": "2020-2024"
+  },
+  {
+    "id": "p076",
+    "name": "Abhishek Sharma",
+    "role": "All-Rounder",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 71,
+      "runs": 1347,
+      "wickets": 18,
+      "strikeRate": 145.80,
+      "economy": 8.55,
+      "fifties": 6,
+      "hundreds": 1
+    },
+    "iplHistory": ["DC", "SRH"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p077",
+    "name": "Yashasvi Jaiswal",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 40,
+      "runs": 1407,
+      "average": 35.17,
+      "strikeRate": 142.42,
+      "fifties": 11,
+      "hundreds": 1
+    },
+    "iplHistory": ["RR"],
+    "yearRange": "2020-2024"
+  },
+  {
+    "id": "p078",
+    "name": "Mohsin Khan",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 26,
+      "wickets": 30,
+      "average": 22.93,
+      "economy": 7.81,
+      "bestBowling": "4/16"
+    },
+    "iplHistory": ["LSG"],
+    "yearRange": "2022-2024"
+  },
+  {
+    "id": "p079",
+    "name": "Umran Malik",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 31,
+      "wickets": 28,
+      "average": 36.78,
+      "economy": 10.07,
+      "bestBowling": "5/25"
+    },
+    "iplHistory": ["SRH", "GT"],
+    "yearRange": "2021-2024"
+  },
+  {
+    "id": "p080",
+    "name": "Alzarri Joseph",
+    "role": "Bowler",
+    "country": "West Indies",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 47,
+      "wickets": 57,
+      "average": 25.22,
+      "economy": 8.75,
+      "bestBowling": "6/12"
+    },
+    "iplHistory": ["SRH", "MI", "RR", "LSG"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p081",
+    "name": "Tushar Deshpande",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 31,
+      "wickets": 29,
+      "average": 34.06,
+      "economy": 10.13,
+      "bestBowling": "3/22"
+    },
+    "iplHistory": ["DC", "RR", "CSK"],
+    "yearRange": "2020-2024"
+  },
+  {
+    "id": "p082",
+    "name": "Rahul Chahar",
+    "role": "Bowler",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 61,
+      "wickets": 62,
+      "average": 28.48,
+      "economy": 8.19,
+      "bestBowling": "3/11"
+    },
+    "iplHistory": ["MI", "PBKS"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p083",
+    "name": "Manish Pandey",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 171,
+      "runs": 3946,
+      "average": 28.75,
+      "strikeRate": 121.68,
+      "fifties": 27
+    },
+    "iplHistory": ["RCB", "PWI", "KKR", "SRH", "LSG"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p084",
+    "name": "Robin Uthappa",
+    "role": "Batsman",
+    "country": "India",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 205,
+      "runs": 4952,
+      "average": 27.51,
+      "strikeRate": 129.99,
+      "fifties": 27,
+      "hundreds": 1
+    },
+    "iplHistory": ["MI", "RCB", "PWI", "KKR", "RR", "CSK"],
+    "yearRange": "2008-2022"
+  },
+  {
+    "id": "p085",
+    "name": "Wriddhiman Saha",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "basePrice": 0.50,
+    "stats": {
+      "matches": 134,
+      "runs": 3204,
+      "average": 26.08,
+      "strikeRate": 121.73,
+      "fifties": 17
+    },
+    "iplHistory": ["CSK", "PBKS", "KKR", "SRH", "GT"],
+    "yearRange": "2008-2024"
+  },
+  {
+    "id": "p086",
+    "name": "Jonny Bairstow",
+    "role": "Wicket-Keeper",
+    "country": "England",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 44,
+      "runs": 1471,
+      "average": 34.20,
+      "strikeRate": 138.83,
+      "fifties": 11,
+      "hundreds": 1
+    },
+    "iplHistory": ["SRH", "PBKS"],
+    "yearRange": "2019-2024"
+  },
+  {
+    "id": "p087",
+    "name": "Steve Smith",
+    "role": "Batsman",
+    "country": "Australia",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 115,
+      "runs": 3121,
+      "average": 31.52,
+      "strikeRate": 126.41,
+      "fifties": 20,
+      "hundreds": 1
+    },
+    "iplHistory": ["PWI", "RPS", "RR", "DC"],
+    "yearRange": "2012-2024"
+  },
+  {
+    "id": "p088",
+    "name": "Aaron Finch",
+    "role": "Batsman",
+    "country": "Australia",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 90,
+      "runs": 2155,
+      "average": 24.21,
+      "strikeRate": 129.63,
+      "fifties": 14
+    },
+    "iplHistory": ["DC", "PWI", "MI", "GL", "RCB", "KKR"],
+    "yearRange": "2010-2022"
+  },
+  {
+    "id": "p089",
+    "name": "Eoin Morgan",
+    "role": "Batsman",
+    "country": "England",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 108,
+      "runs": 2209,
+      "average": 22.31,
+      "strikeRate": 137.69,
+      "fifties": 11
+    },
+    "iplHistory": ["RCB", "SRH", "PBKS", "KKR"],
+    "yearRange": "2010-2021"
+  },
+  {
+    "id": "p090",
+    "name": "Dwayne Bravo",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 161,
+      "runs": 1560,
+      "wickets": 183,
+      "strikeRate": 130.16,
+      "economy": 8.39,
+      "bestBowling": "4/22"
+    },
+    "iplHistory": ["MI", "CSK", "GL"],
+    "yearRange": "2008-2022"
+  },
+  {
+    "id": "p091",
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 189,
+      "runs": 3412,
+      "wickets": 69,
+      "strikeRate": 147.32,
+      "economy": 8.96,
+      "bestBowling": "4/44"
+    },
+    "iplHistory": ["MI"],
+    "yearRange": "2010-2022"
+  },
+  {
+    "id": "p092",
+    "name": "Dale Steyn",
+    "role": "Bowler",
+    "country": "South Africa",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 95,
+      "wickets": 97,
+      "average": 27.32,
+      "economy": 6.91,
+      "bestBowling": "4/8"
+    },
+    "iplHistory": ["RCB", "DC", "SRH"],
+    "yearRange": "2008-2020"
+  },
+  {
+    "id": "p093",
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "country": "Sri Lanka",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 122,
+      "wickets": 170,
+      "average": 19.80,
+      "economy": 7.14,
+      "bestBowling": "5/13"
+    },
+    "iplHistory": ["MI"],
+    "yearRange": "2009-2019"
+  },
+  {
+    "id": "p094",
+    "name": "Imran Tahir",
+    "role": "Bowler",
+    "country": "South Africa",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 59,
+      "wickets": 79,
+      "average": 21.43,
+      "economy": 7.83,
+      "bestBowling": "4/21"
+    },
+    "iplHistory": ["DC", "RPS", "CSK"],
+    "yearRange": "2014-2020"
+  },
+  {
+    "id": "p095",
+    "name": "Shakib Al Hasan",
+    "role": "All-Rounder",
+    "country": "Bangladesh",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 71,
+      "runs": 793,
+      "wickets": 63,
+      "strikeRate": 106.72,
+      "economy": 7.05,
+      "bestBowling": "3/17"
+    },
+    "iplHistory": ["KKR", "SRH"],
+    "yearRange": "2011-2022"
+  },
+  {
+    "id": "p096",
+    "name": "Jimmy Neesham",
+    "role": "All-Rounder",
+    "country": "New Zealand",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 42,
+      "runs": 565,
+      "wickets": 34,
+      "strikeRate": 143.14,
+      "economy": 9.23,
+      "bestBowling": "3/12"
+    },
+    "iplHistory": ["DC", "PBKS", "MI"],
+    "yearRange": "2014-2024"
+  },
+  {
+    "id": "p097",
+    "name": "Mitchell Marsh",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "basePrice": 1.5,
+    "stats": {
+      "matches": 46,
+      "runs": 848,
+      "wickets": 23,
+      "strikeRate": 135.24,
+      "economy": 8.32,
+      "bestBowling": "3/36"
+    },
+    "iplHistory": ["PWI", "DC"],
+    "yearRange": "2013-2024"
+  },
+  {
+    "id": "p098",
+    "name": "Heinrich Klaasen",
+    "role": "Wicket-Keeper",
+    "country": "South Africa",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 50,
+      "runs": 1258,
+      "average": 29.02,
+      "strikeRate": 150.95,
+      "fifties": 8
+    },
+    "iplHistory": ["RCB", "SRH"],
+    "yearRange": "2018-2024"
+  },
+  {
+    "id": "p099",
+    "name": "Phil Salt",
+    "role": "Wicket-Keeper",
+    "country": "England",
+    "basePrice": 1.0,
+    "stats": {
+      "matches": 25,
+      "runs": 653,
+      "average": 28.39,
+      "strikeRate": 157.43,
+      "fifties": 4
+    },
+    "iplHistory": ["DC", "KKR"],
+    "yearRange": "2021-2024"
+  },
+  {
+    "id": "p100",
+    "name": "Rachin Ravindra",
+    "role": "All-Rounder",
+    "country": "New Zealand",
+    "basePrice": 0.75,
+    "stats": {
+      "matches": 20,
+      "runs": 395,
+      "wickets": 8,
+      "strikeRate": 128.48,
+      "economy": 8.41,
+      "bestBowling": "2/24"
+    },
+    "iplHistory": ["DC", "CSK"],
+    "yearRange": "2021-2024"
+  }
+]
