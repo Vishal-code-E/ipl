@@ -142,7 +142,7 @@ export default function Home() {
               IPL Live Auction Dashboard • Fully Offline Mode• {new Date().getFullYear()}
             </p>
             <div className="flex gap-4 text-sm text-gray-600">
-              <span>Total Sold: {state.soldPlayers.length}</span>
+              <span>Total Players Sold: {state.soldPlayers.length}</span>
               <span>•</span>
               <span>Unsold: {state.unsoldPlayers.length}</span>
             </div>
