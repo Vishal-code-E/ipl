@@ -139,7 +139,7 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="text-sm text-gray-600">
-              IPL Live Auction Dashboard • Fully Offline • {new Date().getFullYear()}
+              IPL Live Auction Dashboard • Fully Offline Mode• {new Date().getFullYear()}
             </p>
             <div className="flex gap-4 text-sm text-gray-600">
               <span>Total Sold: {state.soldPlayers.length}</span>
