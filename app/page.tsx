@@ -40,7 +40,7 @@ export default function Home() {
   if (!state) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-        <p className="text-xl text-red-600">Failed to load auction state</p>
+        <p className="text-xl text-red-600">Failed to load auction Page</p>
       </div>
     );
   }
