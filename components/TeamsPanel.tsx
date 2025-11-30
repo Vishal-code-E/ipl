@@ -54,7 +54,7 @@ export function TeamsPanel({ teams, teamStates, currentBiddingTeamId }: TeamsPan
                 )}
               </div>
 
-              {/* Purse Info */}
+              {/* Wallet Info */}
               <div className="space-y-2 mb-3">
                 <div className="flex justify-between text-xs sm:text-sm">
                   <span className="text-gray-600">Remaining</span>
